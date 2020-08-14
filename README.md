@@ -53,3 +53,7 @@ En este episodio platicamos sobre las preguntas más culeras que hemos enfrentad
 Duración: 20 mins aprox.
 En México aun tenemos problemáticas en torno a la industria del software y en torno a los programadores. Machismo, salario bajo, estrés y alta rotación laboral son solo algunos de los problemas que los programadores en México aun enfrentamos. Los participantes hablan de estos temas y comparten experiencias personales relacionadas.
 
+### Ep 5 - Probamos librería/framework/lenguaje X desde cero
+2 Participantes
+Duración: 20 mins aprox
+En este episodio uno de nuestros programadores junto con nuestro host usan un nuevo lenguaje o librería de programación haciendo algo chistoso (no el clásico hola mundo) donde no editamos los errores ni las frustraciones que surgan al navegar en la documentación. Al final del video hacemos un breve review de la experiencia que fue el haber trabajado con dicha librería o lenguaje considerando que nunca antes lo habían utilizado. Imagina un game-play o game-review pero en programación.
