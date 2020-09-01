@@ -57,3 +57,17 @@ En México aun tenemos problemáticas en torno a la industria del software y en 
 2 Participantes
 Duración: 20 mins aprox
 En este episodio uno de nuestros programadores junto con nuestro host usan un nuevo lenguaje o librería de programación haciendo algo chistoso (no el clásico hola mundo) donde no editamos los errores ni las frustraciones que surgan al navegar en la documentación. Al final del video hacemos un breve review de la experiencia que fue el haber trabajado con dicha librería o lenguaje considerando que nunca antes lo habían utilizado. Imagina un game-play o game-review pero en programación.
+
+### Ep 6 - Ballmer Peak
+Host y un invitado
+Duración: 20 - 30 mins
+Experimentaremos con el "Ballmer Peak" (links abajo) y veremos qué tan cierto y útil es. La dinámica es la siguiente, nuestro invitado resolverá ejercicios de programación (code challenges)
+a lo largo del episodio. Los ejercicios podrán ser de la plataforma de CodeWars o alguna similar y deberán ser todos del mismo nivel de complejidad, de esta forma podremos medir si un problema 
+de X complejidad lo resuelve con la misma o mayor rapidez estando ebrio que sobrio.  El primer code challenge deberá resolverlo antes de ingerir alcohol. Terminado el primer ejercicio deberá 
+tomar la primer bebida la cual será a elección del invitado y la dinámica se repetirá hasta que el participante empiece a tener muchas dificultades para resolver los code challenges.
+Un punto a considerar es la investigación previa necesaria para interpretar mejor los resultados que tengamos en cuanto al desempeño de nuestro invitado. Investigar cosas como el volumen de 
+alcohol que tenga la bebida del participante, cuánto tiempo tarda el alcohol en hacerle efecto, la dificultad de los retos, etc.
+
+https://www.quora.com/Is-there-any-truth-to-the-Ballmer-Peak
+https://observer.com/2012/04/bottoms-up-the-ballmer-peak-is-real-study-says/
+https://www.cbsnews.com/news/can-alcohol-make-men-smarter-study-suggests-yes/
